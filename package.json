@@ -1,0 +1,25 @@
+{
+  "name": "hand-warmer",
+  "version": "1.0.0",
+  "description": "An app that keeps CPU runs on a certain rate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hating/hand-warmer.git"
+  },
+  "keywords": [
+    "hand-warmer",
+    "warmer",
+    "heater",
+    "heat"
+  ],
+  "author": "pengjiajin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hating/hand-warmer/issues"
+  },
+  "homepage": "https://github.com/hating/hand-warmer#readme"
+}
